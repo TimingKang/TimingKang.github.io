@@ -1,12 +1,38 @@
+\#### Selected Honors
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+\- Provincial Merit Student of Gansu Province, 2026.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+\- Outstanding Student, Lanzhou Jiaotong University, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+\- Excellent Communist Youth League Member, Lanzhou Jiaotong University, 2025.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+
+
+\#### Competitions
+
+
+
+\- Silver Award, National College Student Algorithm Design and Programming Challenge, 2026.
+
+\- Honorable Mention, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling, 2026.
+
+\- First Prize, Northwest Division, China Collegiate Computing Contest - Computer Design Competition, 2026.
+
+\- First Prize, Northwest Division, China Collegiate Computing Contest - Network Technology Challenge, 2026.
+
+\- Team Second Prize, China Collegiate Programming Contest Ladder Tournament, 2025.
+
+\- National Second Prize, Huajiao Cup National College Mathematics Competition, 2024.
+
+
+
+\#### Certificates
+
+
+
+\- CCF Certified Software Professional, Top 30%.
+
+\- National Computer Rank Examination, Level 3 Network Technology.
+
